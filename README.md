@@ -61,8 +61,17 @@ A modular neural network framework built with Python and NumPy, including fully 
 - Efficient numerical methods
 - Machine learning for scientific computing
 - Fluid dynamics and heat-transfer modeling
-
+  
 ---
+
+### Hobbies
+
+I enjoy geography, and learning about different regions, cultures, and landscapes around the world.
+
+I am also building a Chinese-language GeoGuessr guide website as a personal side project.
+🔗 Repository: [Neural_Network_Framework_From_Scratch]([https://github.com/ruoqizhang0/geoguessr-guide])
+
+If we ever get the chance to chat, don't be surprised if I'm curious about where you're from—your country and region, whether you grew up among mountains or plains, what river shaped your homeland, and what your language looks and sounds like. XD
 
 ### Contact
 
