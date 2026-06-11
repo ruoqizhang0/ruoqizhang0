@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruoqi Zhang 👋</h1>
+<h1 align="center">Hi, I'm Ruoqi 👋</h1>
 
 <p align="center">
   Computational & Applied Mathematics · PDEs · Optimization · Numerical Methods · Machine Learning
