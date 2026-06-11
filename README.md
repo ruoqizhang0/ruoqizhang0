@@ -66,11 +66,11 @@ A modular neural network framework built with Python and NumPy, including fully 
 
 ### Hobbies
 
-I enjoy geography, and learning about different regions, cultures, and landscapes around the world.
+I enjoy geography and learning about different regions, cultures, and landscapes around the world.
 
-I am also building a Chinese-language GeoGuessr guide website as a personal side project.
+I am also building a Chinese GeoGuessr guide website as a personal side project.
 
-🔗 Repository: [geoguessr-guide]([https://github.com/ruoqizhang0/geoguessr-guide])
+🔗 Repository: [geoguessr-guide](https://github.com/ruoqizhang0/geoguessr-guide)
 
 If we ever get the chance to chat, don't be surprised if I'm curious about where you're from—your country and region, whether you grew up among mountains or plains, what river shaped your homeland, and what your language looks and sounds like. XD
 
