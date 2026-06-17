@@ -15,7 +15,7 @@ My work focuses on:
 - Partial differential equations and numerical simulation
 - Convex and conic optimization
 - Heat transfer, fluid dynamics, and control
-- Scientific computing with MATLAB, Python, and Fortran
+- Scientific computing with MATLAB, Python
 - Machine learning and neural networks
 
 ---
