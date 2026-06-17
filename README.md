@@ -8,7 +8,7 @@
 
 ### About me
 
-I am a computational and applied mathematician interested in using mathematical modeling, optimization, and scientific computing to study complex physical systems.
+I interested in using mathematical modeling, optimization, and scientific computing to study complex physical systems.
 
 My work focuses on:
 
