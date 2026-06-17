@@ -16,7 +16,7 @@ My work focuses on:
 - Convex and conic optimization
 - Heat transfer, fluid dynamics, and control
 - Scientific computing with MATLAB, Python, and Fortran
-- Machine learning and neural networks from first principles
+- Machine learning and neural networks
 
 ---
 
@@ -57,7 +57,7 @@ A modular neural network framework built with Python and NumPy, including fully 
 ### Current interests
 
 - High-dimensional PDEs
-- PDE-constrained optimization
+- PDE optimization
 - Efficient numerical methods
 - Machine learning for scientific computing
 - Fluid dynamics and heat-transfer modeling
