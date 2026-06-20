@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Ruoqi 👋</h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake-dark.svg">
@@ -6,12 +8,6 @@
   <img alt="github snake"
     src="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
 </picture>
-
-<h1 align="center">Hi, I'm Ruoqi 👋</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg" />
-</p>
 
 <p align="center">
   Computational & Applied Mathematics · PDEs · Optimization · Numerical Methods · Machine Learning
