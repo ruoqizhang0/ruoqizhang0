@@ -76,15 +76,19 @@ If we ever get the chance to chat, don't be surprised if I'm curious about where
 
 ### Contact
 
-- GitHub: [@ruoqizhang0](https://github.com/ruoqizhang0)## Hi there 👋
+- GitHub: [@ruoqizhang0](https://github.com/ruoqizhang0)
+
+---
+
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg">
+    srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
   <img alt="github snake"
-    src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg">
+    src="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
 </picture>
 
 <!--
