@@ -1,3 +1,14 @@
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
+  <img alt="github snake"
+    src="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
+</picture>
+
 <h1 align="center">Hi, I'm Ruoqi 👋</h1>
 
 <p align="center">
@@ -79,17 +90,6 @@ If we ever get the chance to chat, don't be surprised if I'm curious about where
 - GitHub: [@ruoqizhang0](https://github.com/ruoqizhang0)
 
 ---
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
-  <img alt="github snake"
-    src="https://raw.githubusercontent.com/ruoqizhang0/ruoqizhang0/output/github-snake.svg">
-</picture>
 
 <!--
 **ruoqizhang0/ruoqizhang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
