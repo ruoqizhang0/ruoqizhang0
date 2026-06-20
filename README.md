@@ -78,6 +78,15 @@ If we ever get the chance to chat, don't be surprised if I'm curious about where
 
 - GitHub: [@ruoqizhang0](https://github.com/ruoqizhang0)## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg">
+  <img alt="github snake"
+    src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg">
+</picture>
+
 <!--
 **ruoqizhang0/ruoqizhang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
