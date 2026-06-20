@@ -52,15 +52,7 @@ A modular neural network framework built with Python and NumPy, including fully 
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=python,matlab,fortran,linux,git,github,vscode,docker,aws,mysql" />
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat"/>
-  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scientific%20Computing-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Optimization-green?style=flat"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,matlab,linux,git,github,vscode,docker,aws,mysql" />
 
 ---
 
