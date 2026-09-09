@@ -50,8 +50,6 @@ A computer vision project for the **Kaggle Urban Elements Re-ID Challenge 2026**
 * Rank-5: **73.72%**
 * Rank-10: **81.32%**
 
-**Kaggle Public Score:** **0.05070**
-
 The project also includes cross-camera validation, class-level error analysis, image-size analysis, and qualitative inspection of retrieval failures.
 
 📓 [View the full project and notebook](https://github.com/ruoqizhang0/Urban-Elements-Re-Identification-2026)
