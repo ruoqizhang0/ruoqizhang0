@@ -29,19 +29,39 @@ My work focuses on:
 
 ---
 
-### Featured projects
+### 🚀 Featured Project
+
+#### [Urban Elements Re-Identification 2026](https://github.com/ruoqizhang0/Urban-Elements-Re-Identification-2026)
+
+A computer vision project for the **Kaggle Urban Elements Re-ID Challenge 2026**, focused on identifying the same urban elements across different camera views.
+
+**Approach**
+
+* ResNet-18 with pretrained ImageNet weights
+* Aspect-ratio-preserving image preprocessing with padding
+* Batch Hard Triplet Loss for visual embedding learning
+* L2-normalized image embeddings
+* Cosine similarity for cross-camera retrieval
+* Top-100 image retrieval for competition submission
+
+**Validation**
+
+* Rank-1: **50.94%**
+* Rank-5: **73.72%**
+* Rank-10: **81.32%**
+
+**Kaggle Public Score:** **0.05070**
+
+The project also includes cross-camera validation, class-level error analysis, image-size analysis, and qualitative inspection of retrieval failures.
+
+📓 [View the full project and notebook](https://github.com/ruoqizhang0/Urban-Elements-Re-Identification-2026)
+
 
 #### Master's Thesis: Optimal Cooling of Internally Heated Fluids
 Conic optimization approach for studying heat-transfer bounds in internally heated fluids.  
 Methods include rotated Lorentz cone constraints, second-order cone constraints, and LMIs.
 
 🔗 Repository: [Thesis](https://github.com/ruoqizhang0/Thesis)
-
-#### Cart-Pole Simulation and Control
-Simulation of a cart-pole system using MATLAB, Simulink, and Simscape Multibody.  
-Implemented LQR, NMPC, and neural-network-based control experiments.
-
-🔗 Repository: [Simulations](https://github.com/ruoqizhang0/Simulations)
 
 #### Neural Network Framework from Scratch
 A modular neural network framework built with Python and NumPy, including fully connected layers, convolution, pooling, activations, SGD, and cross-entropy loss.
